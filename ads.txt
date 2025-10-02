@@ -1,0 +1,5 @@
+# ads.txt file for randallmercier-md.com
+# This is a medical practice website
+# No advertising partnerships at this time
+
+# This file is included for SEO completeness only

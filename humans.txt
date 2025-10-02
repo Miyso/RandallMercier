@@ -1,0 +1,59 @@
+# Humans.txt - The Team Behind Dr. Randall Mercier M.D. Website
+
+## TEAM
+
+**Chief of Medicine**  
+Dr. Randall Mercier M.D.  
+Internal Medicine Physician  
+Location: Southern Pines, NC  
+
+**Website Developer**  
+Daniel Horton - Horton Technical
+Role: Developer and Maintainer
+Location: Southern Pines, NC
+
+## THANKS
+
+Special thanks to:
+- Patients and families who trust us with their healthcare
+- Medical staff and healthcare providers
+- Southern Pines community
+- Open source community for tools and resources
+
+## SITE
+
+**Last Updated:** September 23, 2025  
+**Language:** English  
+**Doctype:** HTML5  
+**Tools:** HTML5, CSS3, JavaScript, Font Awesome, Google Fonts  
+**Software:** VS Code, Git  
+**Framework:** Custom responsive design  
+**Standards:** WCAG 2.1, HIPAA compliant  
+
+**Components:**  
+- Responsive design for all devices
+- Patient reviews and testimonials
+- RSS news feed integration
+- HIPAA-compliant privacy practices
+- Professional medical theming
+- SEO optimized structure
+- Accessibility focused development
+
+**Medical Practice Information:**  
+Dr. Randall Mercier M.D.  
+Internal Medicine Practice  
+630 South Bennett Street  
+Southern Pines, NC 28387  
+Phone: (910) 692-0873  
+Website: https://randallmercier-md.com  
+
+**Established:** 2025  
+**Specialties:** Internal Medicine, Preventive Care, Chronic Disease Management  
+**Board Certification:** American Board of Internal Medicine  
+**Fellowship:** American College of Physicians  
+
+## DEDICATION
+
+This website is dedicated to providing accessible, professional healthcare information and services to the Southern Pines, North Carolina community and beyond.
+
+"Committed to compassionate, comprehensive medical care with four decades of experience."
